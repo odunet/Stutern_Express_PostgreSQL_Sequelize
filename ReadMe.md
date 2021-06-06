@@ -1,4 +1,4 @@
-# Express Fullstack Application with PostgreSQL and Sequelize
+# Express Fullstack Application with PostgreSQL and Sequelize DB.
 
 ## Usage
 Interact with application with the commands below:
